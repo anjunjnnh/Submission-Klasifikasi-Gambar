@@ -25,7 +25,7 @@ Selain itu, digunakan juga teknik augmentasi data dan callback seperti `EarlySto
 - Keras
 - NumPy
 - Matplotlib
-- Google Colab (opsional)
+- Google Colab
 
 ## 📈 Hasil Evaluasi
 
@@ -34,11 +34,6 @@ Model berhasil mencapai akurasi:
 - Akurasi pada data test: **97%**
 
 > *Catatan: Angka disesuaikan dengan hasil aktual dari model.*
-
-## 📌 Catatan
-
-- Proyek ini merupakan bagian dari penyelesaian tugas akhir pada kelas Dicoding.
-- Model masih bisa diimprove lebih lanjut dengan tuning hyperparameter, penambahan layer, dan penggunaan pretrained model seperti MobileNet atau ResNet.
 
 ## 📄 Lisensi
 
